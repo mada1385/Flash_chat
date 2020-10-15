@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430566698199",
+    "firebase_url": "https://chat-9dd84.firebaseio.com",
+    "project_id": "chat-9dd84",
+    "storage_bucket": "chat-9dd84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430566698199:android:a3876e58b936bd26551492",
+        "android_client_info": {
+          "package_name": "co.elderey.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430566698199-1qfit9p21peren3fc0c5ho1kctvcttsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgz-gZ5nBsiOpCGOjfJdjDSBWpBMY72tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430566698199-1qfit9p21peren3fc0c5ho1kctvcttsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
